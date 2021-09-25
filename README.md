@@ -1,4 +1,4 @@
-# Project-Story-HZH-2021
+# Project-Story-HZ-2021
 The Project Story
 ## Inspiration
 Have you ever felt that your meetings are going into circles? That you are having a hard time streamlining your inputs, decisions and follow up actions? Well, now Minutely AI is here to assist you and get your meetings to the next level! This amazing team productivity app will help you get all your meeting minutes recorded, transcribed and forwarded automatically to all the meeting participants with a list of action items on-the-go
