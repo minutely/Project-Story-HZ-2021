@@ -3,6 +3,8 @@ The Project Story
 ## Inspiration
 Have you ever felt that your meetings are going into circles? That you are having a hard time streamlining your inputs, decisions and follow up actions? Well, now Minutely AI is here to assist you and get your meetings to the next level! This amazing team productivity app will help you get all your meeting minutes recorded, transcribed and forwarded automatically to all the meeting participants with a list of action items on-the-go
 
+## Who we are
+
 ## What it does
 We have designed the app to be simple, intuitive and yet powerful with a complete user-centric approach, everything works with a simple button push, your meeting can be either transcribed in real-time, or you can upload a meeting recording, then our backend takes over to provide sentiment analysis, identify action items and forward the MoMs to the meeting participants
  
@@ -11,6 +13,8 @@ Building it was thanks to the work of 2 Data Scientists, a Front-end developer, 
 
 Before we started building the Fron-tend of the project, we needed to do 3 things: First, write down a well-defined project scope, with 1-3 of the most important features, in order to get our MVP vision. Second, create an ideal user workflow story, so it was clear to us how the user would use our web application for their needs. Third, we came up with some wireframe sketches and created some more detailed Mockups in Figma. Once the design was completed, we started building the Front-end using React, and styling it with TailWindCSS. This involved creating the application UI dashboard, building the file upload system to handle sending of large files to our backend and populating the dashboard sections with the AI generated information.
 
+
+## Demo 
 
 ## Challenges we ran into
 There were many challenges we have faced, especially as we were a Hybrid team with 2 people present physically on-site and the rest participating remotely:
@@ -25,6 +29,8 @@ Last, our MVP has just shown how we can participate at making the workplace way 
 
 ## What we learned
 We learned that in a 40 hour hackathon, decisions need to be made quickly in order for the project to progress forward at a speed that is fast enough. Sometimes this means having to skip "start-up" steps, or reducing code quality, so that we could complete the project in time. What helps to achieve a finished project is having a well-defined project scope. This  helps to stay focused and so we only build what we deemed as the essential features. Further, collaborating with people who have different skills requires trust in them that they know what they are doing. There is also a need for someone in the team who can glue all the different technology pieces together so that it works seamlessly. Having a good leader that guides the project forward with meetings and project direction is also really important. And, most important, having a good, hard working team that you get along with very well makes the weekend all the more enjoyable! Having fun and laugh together is as important as being productive and copying with lack of sleep.
+
+## Future Features and Integrations
 
 ## What's next for Minutely HackZurich 2021
 Our objective for the future is to continue implementing and deploying key features to the application that we could not implement due to the time constraint on the Hackathon like:
