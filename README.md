@@ -16,6 +16,7 @@ There were many challenges we have faced, especially as we were a Hybrid team wi
 On the technical side, we ran into a major challenge in matters of available Speech2Text technologies that are good enough for the quality standards we have set ourselves. Basically, all speech2Text Packages/APIs that are available are proprietary, which means they are not for free
 
 ## Accomplishments that we're proud of
+First, and foremost, we are super proud about how diverse our team was and how we managed to get help from people who did not even belong to the team, the Hackathon provides the perfect ecosystem for collaboration and co-development. Our MVP has just shown how we can participate at making the workplace way more efficient and more collaborative using state-of-the-art Artificial Intelligence
 
 ## What we learned
 
