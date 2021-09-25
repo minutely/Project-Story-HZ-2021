@@ -19,5 +19,7 @@ On the technical side, we ran into a major challenge in matters of available Spe
 First, and foremost, we are super proud about how diverse our team was and how we managed to get help from people who did not even belong to the team, the Hackathon provides the perfect ecosystem for collaboration and co-development. Our MVP has just shown how we can participate at making the workplace way more efficient and more collaborative using state-of-the-art Artificial Intelligence
 
 ## What we learned
+We learned that in a 40 hour hackathon, decisions need to be made quickly in order for the project to progress forward at a fast enough rate. Sometimes this means having to skip "startup" steps, or reducing code quality, so that we could complete the project in time. What helps to achieve a finished project is having a well-defined project scope, which helps to keep us on focus and so we only build what we deemed as the essential features. Further, collaborating with people who have different skills requires trust in them that they know what they are doing and there also needs to be someone in the team who can glue all the different technology pieces together so it work seemlessly. Having a good leader that guides the project forward with meetings and project direction is also really important. Having a good, hard working team that you get along with makes the weekend all the more enjoyable!
+
 
 ## What's next for Minutely HackZurich 2021
