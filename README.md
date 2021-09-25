@@ -23,3 +23,7 @@ We learned that in a 40 hour hackathon, decisions need to be made quickly in ord
 
 
 ## What's next for Minutely HackZurich 2021
+Our objective for the future is to continue implementing and deploying key features to the application that we could not implement due to the time constraint on the Hackathon like:
+- Detection of action items
+- Gathering statistical information about meeting participants "Speech duration, Participation impressions, voice tone...,etc."
+- Voice recognition and speaker labelling
